@@ -1,8 +1,6 @@
 from lib2to3.pgen2 import driver
 import os 
 from logging import exception
-from re import search
-from textwrap import indent
 import selenium
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
@@ -12,7 +10,6 @@ import time
 import csv
 import pandas as pd
 import openpyxl
-import json
 
 
 # Username and Password
