@@ -16,8 +16,8 @@ import openpyxl
 
 #----------------------------------
 
-USERNAME = "fatguy139@gmail.com"
-PASSWORD = "2103omkar"
+USERNAME = ""
+PASSWORD = ""
 
 #----------------------------------
 
